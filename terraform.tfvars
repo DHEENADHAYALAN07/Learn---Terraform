@@ -1,4 +1,4 @@
 region = "us-east-1"
-bucket_name = "dheena-besant-devops"
+bucket_name = "dhayalan-besant-devops"
 
 
